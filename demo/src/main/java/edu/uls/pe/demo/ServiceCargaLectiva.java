@@ -40,7 +40,18 @@ public class ServiceCargaLectiva {
                 new Docente(5, "ARAMAYO VARGAS MARÍA CECILIA", "DACJ", 0, true),
                 new Docente(6, "ARDILES ZEBALLOS LUIS ALBERT", "DACJ", 0, false),
                 new Docente(7, "CHÁVEZ CONTRERAS ÁNGEL EVARISTO", "DAHUC", 0, true),
-                new Docente(8, "DÍAZ TORRES JOHN ELVIS", "DAHUC", 0, true)
+                new Docente(8, "DÍAZ TORRES JOHN ELVIS", "DAHUC", 0, true),
+                new Docente(9, "Torres Fortón, Pedro Andrés", "DAHUC", 0, true),
+                new Docente(10, "Llanos Palomino, Percy Raúl", "DAHUC", 0, true),
+                new Docente(11, "Gómez Nieto, Katty María", "DAHUC", 0, false),
+                new Docente(12, "VILCA MAMANI MARCO ANTONIO", "DIMA", 0, true),
+                new Docente(13, "ZEGARRA BALLÓN QUINTANILLA JULIANA", "DIMA", 0, true),
+                new Docente(14, "POCO AGUILAR, SERGIO", "DIMA", 0, true),
+                new Docente(15, "ARIAS ENRÍQUEZ JOEL FERNANDO", "DIMA", 0, true),
+                new Docente(16, "Pacheco Tejada, Jorge", "DAHUC", 0, false),
+                new Docente(17, "Ávila Fernández, Gonzalo Arturo", "DAHUC", 0, true),
+                new Docente(18, "TORRES CALCIN HENRY LUIS", "DIMA", 0, true),
+                new Docente(19, "HUACO ZUÑIGA LUIS MAURICIO ANTONIO", "DIMA", 0, true)
         );
     }
 }
