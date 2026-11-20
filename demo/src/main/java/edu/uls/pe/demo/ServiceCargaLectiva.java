@@ -31,7 +31,7 @@ public class ServiceCargaLectiva {
 
     public List<Docente> consultarDocentes() {
         // Nombres y valores proporcionados para la demostración; todavía sin BD.
-        // SI/NO se representa como true/false en contratoCompletoExterno.
+        // SI/NO se representa como true/false en tiempoCompletoOtraUniversidad.
         return List.of(
                 new Docente(1, "ALATRISTA CORRALES ARTURO", "DACTE", 0, true),
                 new Docente(2, "ALFARO BEJARANO JULIO CARLO", "DIMA", 0, false),

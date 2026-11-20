@@ -5,6 +5,6 @@ public record Docente(
         String nombreCompleto,
         String departamento,
         int horasNoLectivas,
-        boolean contratoCompletoExterno
+        boolean tiempoCompletoOtraUniversidad
 ) {
 }
