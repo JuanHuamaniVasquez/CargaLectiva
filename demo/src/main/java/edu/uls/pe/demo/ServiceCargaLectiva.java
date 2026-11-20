@@ -30,12 +30,17 @@ public class ServiceCargaLectiva {
     }
 
     public List<Docente> consultarDocentes() {
-        // Datos ficticios para demostrar los servicios sin acceso a una BD.
+        // Nombres y valores proporcionados para la demostración; todavía sin BD.
+        // SI/NO se representa como true/false en contratoCompletoExterno.
         return List.of(
-                new Docente(1, "Ana Torres Ruiz", "DAHUC", 8, false),
-                new Docente(2, "Bruno Vega Soto", "DIMA", 4, true),
-                new Docente(3, "Carla Mendoza Rojas", "DACJ", 12, false),
-                new Docente(4, "Diego Salas Ramos", "DACTE", 6, false)
+                new Docente(1, "ALATRISTA CORRALES ARTURO", "DACTE", 0, true),
+                new Docente(2, "ALFARO BEJARANO JULIO CARLO", "DIMA", 0, false),
+                new Docente(3, "ALVAREZ BUSTIOS JOSÉ CARLOS", "DACTE", 0, true),
+                new Docente(4, "APAZA VALDIVIA ADELUZ", "DIMA", 0, true),
+                new Docente(5, "ARAMAYO VARGAS MARÍA CECILIA", "DACJ", 0, true),
+                new Docente(6, "ARDILES ZEBALLOS LUIS ALBERT", "DACJ", 0, false),
+                new Docente(7, "CHÁVEZ CONTRERAS ÁNGEL EVARISTO", "DAHUC", 0, true),
+                new Docente(8, "DÍAZ TORRES JOHN ELVIS", "DAHUC", 0, true)
         );
     }
 }
